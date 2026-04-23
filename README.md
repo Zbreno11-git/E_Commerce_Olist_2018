@@ -105,7 +105,7 @@ freight_cost_index = freight_value / GMV
 
 ### 3. Freight Cost Index vs GMV
 
-![Freight Index](freight:GMV%.png)
+![Freight Index](freight_GMV%.png)
 
 ---
 
