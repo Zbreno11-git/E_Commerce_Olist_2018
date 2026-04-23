@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt, seaborn as sns
 import plotly.express as px
 
-path = '/Users/luanabreno/Desktop/Datasets/archive-3/'
+path = '...path'
 a = path + 'olist_orders_dataset.csv'
 b = path + 'olist_order_items_dataset.csv'
 c = path + 'olist_customers_dataset.csv'
